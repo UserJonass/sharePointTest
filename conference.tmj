@@ -496,7 +496,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -636,6 +636,71 @@
          "name":"WA_User_Interface",
          "spacing":0,
          "tilecount":273,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":200,
+         "firstgid":2956,
+         "image":"tilesets\/ankunftStrandJonas\/decorations_mastersheet.png",
+         "imageheight":1600,
+         "imagewidth":6400,
+         "margin":0,
+         "name":"decorations_mastersheet",
+         "spacing":0,
+         "tilecount":10000,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":36,
+         "firstgid":12956,
+         "image":"tilesets\/ankunftStrandJonas\/gather_decoration_1.21.png",
+         "imageheight":7072,
+         "imagewidth":1152,
+         "margin":0,
+         "name":"gather_decoration_1.21",
+         "spacing":0,
+         "tilecount":7956,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":40,
+         "firstgid":20912,
+         "image":"tilesets\/ankunftStrandJonas\/gather_decoration_exterior_1.3.png",
+         "imageheight":7840,
+         "imagewidth":1280,
+         "margin":0,
+         "name":"gather_decoration_exterior_1.3",
+         "spacing":0,
+         "tilecount":9800,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":20,
+         "firstgid":30712,
+         "image":"tilesets\/ankunftStrandJonas\/gather_islands_1.0.png",
+         "imageheight":768,
+         "imagewidth":640,
+         "margin":0,
+         "name":"gather_islands_1.0",
+         "spacing":0,
+         "tilecount":480,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":80,
+         "firstgid":31192,
+         "image":"tilesets\/ankunftStrandJonas\/gather_terrains_3.a.png",
+         "imageheight":3136,
+         "imagewidth":2560,
+         "margin":0,
+         "name":"gather_terrains_3.a",
+         "spacing":0,
+         "tilecount":7840,
          "tileheight":32,
          "tilewidth":32
         }],
